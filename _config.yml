@@ -1,0 +1,17 @@
+title: quanhook
+description: Discover places, capture memories, compose mini-itineraries.
+url: https://devls-tech.github.io
+baseurl: /quanhook-public
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
