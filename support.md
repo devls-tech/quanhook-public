@@ -32,11 +32,14 @@ English and Vietnamese (Tiếng Việt). To switch, open the **Settings** tab �
 The Home tab needs your location to recommend places near you. If you didn't grant location permission, open your device **Settings → quanhook → Location** and allow it "While Using the App". You can also tap the **location chip** at the top of the Home tab and pick a city manually — that becomes the source of truth until you change it.
 
 ### What do the buttons under each place do?
-- **Heart (Hook)** — save this place to your hooked list and tell us you like the recommendation.
+- **Heart (Hook)** — save this place to your hooked list and tell us you like the recommendation. You can also Hook a place from its detail screen.
 - **X (Skip)** — pass on this place; we won't show it to you again.
 - **Undo (curved arrow)** — undo your last Hook or Skip.
-- **i (Details)** — open the full place screen with photos, tags, sub-ratings, and reviews.
+- **i (Details)** — open the full place screen with photos, tags, sub-ratings, reviews, and related activities.
 - **Share** — copy or share a link to this place.
+
+### Where can I find the places I've Hooked?
+Open the **Profile** tab and switch to the **Hooks** tab. Other people's profiles also show their public Hooks.
 
 ### Why does the deck say "No places found near you"?
 There aren't enough indexed places at your exact coordinates yet. quanhook will fall back to showing popular places from a wider area. Try picking a nearby major city from the location chip.
@@ -62,13 +65,25 @@ Tap **History** in the top right of the Search tab. Each entry shows the tags yo
 ## Reviews
 
 ### Where do reviews come from?
-The Reviews tab is a community feed of reviews about places listed in quanhook. You can sort by **Recent**, **Popular**, or **Trending**.
+The Reviews tab is a community feed of reviews about places listed in quanhook. You can sort by **Recent**, **Popular**, or **Trending**, and tap **Trending** or **Recommended** at the top to open dedicated feeds.
 
 ### What can I do with a review?
-Tap a review to open it. From there you can **like** or **dislike** it, **comment**, and tap through to the place it's about. Like, dislike, and comment actions require an account.
+Tap a review to open it. From there you can **like** or **dislike** it, **comment** (and reply to comments), and tap through to the place it's about. Reactions and comments require an account.
 
-### Can I write a review from the mobile app?
-Not yet — writing new reviews from mobile is on the roadmap. For now, the mobile app is focused on reading reviews and engaging with them via comments and reactions.
+### How do I write a review?
+Open the place you visited and tap the **pink pen icon** (or the **Tap to write a review…** prompt). The composer opens as a sheet and walks you through:
+
+1. **Overall sentiment** — Praise, Suggest, or Criticise.
+2. **A catchy headline** and the body of your review.
+3. **Photos** (optional) — pick from your library or take new ones with the camera.
+
+Tap **Post Review** when you're done. Your review appears on the place and on your profile.
+
+### Why is there a daily limit on reviews?
+To keep the community feed honest, each account can post a limited number of reviews per day. You'll see a small **quota pill** when the composer opens; if you've used up today's slots, the composer shows a notice and you can try again tomorrow.
+
+### How do I stop seeing a place I don't like?
+Open the place's detail screen, tap the **⋯** more menu, and choose **Ignore this place** — we won't recommend it to you again. (This is different from Hooking, which saves a place to your profile.)
 
 ### How do I report a review, comment, profile, or photo?
 Email **support@quanhook.app** with a link to the content (or a screenshot) and a short note about what's wrong. We review reports — typically within 24 hours — and take action if the content violates our community guidelines. In-app reporting controls are coming in a future update.
@@ -81,7 +96,13 @@ In-app blocking is being added in a future update. In the meantime, email **supp
 ## Scenes
 
 ### What is a Scene?
-A Scene is a small itinerary that quanhook composes for you. Open the **Scenes** tab, describe what you want ("a slow Sunday walk near the river", "rainy-afternoon cafés in District 3"), and submit. quanhook streams a list of stops, one by one, that you can save and tweak.
+A Scene is a small itinerary that quanhook composes for you. Open the **Scenes** tab, describe what you want ("a slow Sunday walk near the river", "rainy-afternoon cafés in District 3"), pick a start time, and submit. quanhook streams a list of stops with timing and a short narrative for each.
+
+### Can I export a Scene to my calendar?
+Yes. Open the Scene and choose the calendar export option — each stop is added as an event with the start time you picked.
+
+### Why does it say I've hit my Scenes quota?
+Composing a Scene runs an AI agent, so each account has a daily limit. You'll see a **quota pill** while composing; if you've used today's slots, try again tomorrow.
 
 ### How do I find my saved Scenes?
 On the Scenes tab, tap **My scenes** in the top right.
@@ -93,11 +114,20 @@ Open the Scene and tap the share icon. Anyone with the link can view it without 
 
 ## Profile and following
 
-### Can I follow other users?
-Yes. Open someone's profile (tap their avatar or name from a review or comment) and tap **Follow**. You can see who you follow and who follows you from your own profile.
+### What's on the Profile tab?
+Your profile has three tabs:
+
+- **Reviews** — the reviews you've posted.
+- **Hooks** — the places you've saved.
+- **Following** — the people you follow.
+
+Other people's profiles show their public Reviews and Hooks.
 
 ### How do I edit my profile?
-Open the **Profile** tab and tap **Edit**. You can change your display name, bio, and avatar.
+Open the **Profile** tab and tap **Edit**. You can change your display name and bio. Tap your avatar to upload a new one from your library or take a new photo with the camera.
+
+### How do I follow other users?
+Open someone's profile (tap their avatar or name from a review or comment) and tap **Follow**. From your own profile, tap the **followers** or **following** count to see the full list.
 
 ---
 

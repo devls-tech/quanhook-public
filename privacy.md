@@ -22,7 +22,7 @@ We collect only what is needed to make the app work. Specifically:
 ### Information you give us
 - **Account information** — your email address, name, and a password (or, if you sign in with Google or Apple, the identifier they pass us). Used to create and secure your account.
 - **Profile content** — anything you choose to add to your profile (display name, avatar, bio).
-- **User-generated content** — places you Hook (save) or Skip, reviews you write, ratings you give, comments and reactions you post, photos you attach (e.g. to a profile or a Scene), Scenes (mini-itineraries) you compose, and the people you follow.
+- **User-generated content** — places you Hook (save), Skip, or Ignore; reviews you write (headline, body text, sentiment, photos); comments, replies, and reactions you post; photos you attach to a review or your profile; Scenes (mini-itineraries) you compose; and the people you follow.
 
 ### Information collected automatically
 - **Location** — when you grant permission, we use your device's precise location to show nearby places and personalize recommendations. Location is collected only while you are using the app ("when in use"). You can revoke this at any time in your device settings; the app will still work using a city you pick manually.
@@ -30,7 +30,7 @@ We collect only what is needed to make the app work. Specifically:
 - **Identifiers** — a quanhook user ID and a device-level identifier for authentication and abuse prevention.
 
 ### Information you let us access
-- **Photos** — when you attach an image (e.g. to your profile or to a Scene), we read that single photo from your library. We do not scan or upload other photos.
+- **Photos** — when you attach an image to a review or your profile, we read that single photo from your library. We do not scan or upload other photos.
 - **Camera** — only when you tap to take a new photo from within the app.
 
 We do **not** collect contacts, microphone audio, health data, financial data, or precise location in the background.
@@ -65,7 +65,7 @@ We keep your information for as long as your account is active. If you delete yo
 
 ## Deleting your account and data
 
-You can delete your account directly from the app: open **Settings → Delete account**. This removes your profile, your Hooks and Skips, your reviews, comments and reactions, your Scenes, and any uploaded photos. Public content you posted will be removed or anonymized.
+You can delete your account directly from the app: open **Settings → Delete account**. This removes your profile, your Hooks, Skips, and Ignores, your reviews, comments, replies and reactions, your Scenes, and any uploaded photos. Public content you posted will be removed or anonymized.
 
 You may also email **support@quanhook.app** and we will process the deletion within 30 days.
 
